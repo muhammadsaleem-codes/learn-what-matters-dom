@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/*  
+
+html, body{
+ height: 100%;
+ width: 100%;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.squre{
+    height: 290px;
+    width: 290px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+button{
+    padding: 10px 8px;
+    background-color: deepskyblue;
+    color: white;
+    font-size: 24px;
+} */
